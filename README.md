@@ -10,6 +10,7 @@ cd client
 npm install
 npm run dev
 ```
+Note: if npm install fails, run ``` npm install --force ```
 
 ### Server - Terminal B
 ```

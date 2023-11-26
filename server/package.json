@@ -2,14 +2,13 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "author": "Suriyadevi Varatharaju<suriyadevi.v@gmail.com>",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/app.js --exec  \"npm run lint && node\"",
     "lint": "eslint src/**/*.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Suriyadevi Varatharaju<suriyadevi.v@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",

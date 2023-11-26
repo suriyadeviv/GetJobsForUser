@@ -1,6 +1,11 @@
 # client
 
-> A Vue.js project
+> A Vue.js web application which has following functionalities
+
+1. user can select the username from dropdown
+2. Selected username send the router query in req to backend server
+3. Fetches the user enquiry from jobs list based on their classification and location
+4. Results displays in Jobs List table
 
 # install dependencies
 npm install
@@ -22,3 +27,4 @@ npm run test
 
 # local snapshot
 https://github.com/suriyadeviv/GetJobsForUser/blob/main/client/static/Screenshot-023-11-26.png
+

@@ -21,4 +21,4 @@ npm run test
 ```http://localhost:8080/#/jobs```
 
 # local snapshot
-client/static/Screenshot 2023-11-26 at 16.16.53.png
+https://github.com/suriyadeviv/GetJobsForUser/blob/main/client/static/Screenshot-023-11-26.png

@@ -2,9 +2,6 @@
 
 > A Vue.js project
 
-## Build Setup
-
-``` bash
 # install dependencies
 npm install
 
@@ -18,13 +15,10 @@ npm run build
 npm run build --report
 
 # run unit tests
-npm run unit
+npm run test
 
-# run e2e tests
-npm run e2e
+# local endpoint
+```http://localhost:8080/#/jobs```
 
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# local snapshot
+client/static/Screenshot 2023-11-26 at 16.16.53.png
